@@ -1,0 +1,25 @@
+{
+  "name": "@thomasbouasli/secure-local-storage",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasBouasli/SecureLocalStorage.git"
+  },
+  "author": "Thomas Bouasli <thomas.bouasli@gmail.com>",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\""
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.16.3",
+    "typescript": "^5.0.4"
+  },
+  "bugs": {
+    "url": "https://github.com/ThomasBouasli/SecureLocalStorage/issues"
+  },
+  "homepage": "https://github.com/ThomasBouasli/SecureLocalStorage#readme",
+  "description": ""
+}
